@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-image: url("gradient_bg.png");
+}
+
+h1 {
+    font-family: 'CopperPlate';
+}
+
+body {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANcAAAB5CAMAAACdtUQZAAAAA1BMVEXEpIQRYj2SAAAAMElEQVR4nO3BMQEAAADCoPVPbQlPoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GmYYAAGiFkejAAAAAElFTkSuQmCC");
+}
+
+img {
+    width: 175px;
+    border: 7px solid;
+    padding: 1.75px;
+    margin: 0px;
+}
+
+div {
+    background: white;
+    padding: 1em 2em;
+    margin: 3em;
+    border-radius: 1em;
+    border: 3px solid #0E4F00;
+}
